@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nallabellishashikumar.github.io/calculator-website/sitemap.xml
